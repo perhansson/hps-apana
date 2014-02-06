@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<!DOCTYPE LumiRangeCollection
+  SYSTEM 'http://atlas-runquery.cern.ch/LumiRangeCollection.dtd'>
+<!-- Good-runs-list created by AtlRunQuery.py on 2010-08-19 15:28:13.327283 -->
+<LumiRangeCollection>
+   <NamedLumiRange>
+      <Name>Andreas_D2PDtoD3PD_PeriodE</Name>
+      <Version>2.1</Version>
+      <Metadata Name="Query">f r data10_7TeV.periodE and lhc beamenergy 3400+ and lhc stablebeams true </Metadata>
+      <Metadata Name="RunList">161948,161562,161520,161407,161379,161118,160980,160975,160963,160958,160954,160953,160899,160879,160801,160800,160736,160613,160530,160479,160472,160387</Metadata>
+      <Metadata Name="RQTSVNVersion">CoolRunQuery-00-03-23</Metadata>
+      <Metadata Name="StreamListInfo">
+         <Stream Name="physics_CosmicCalo" TotalNumOfEvents="6317736" NumOfSelectedEvents="4263147"/>
+         <Stream Name="physics_CosmicMuons" TotalNumOfEvents="1654951" NumOfSelectedEvents="1654951"/>
+         <Stream Name="physics_Egamma" TotalNumOfEvents="41303706" NumOfSelectedEvents="41303706"/>
+         <Stream Name="physics_JetTauEtmiss" TotalNumOfEvents="44850247" NumOfSelectedEvents="44850247"/>
+         <Stream Name="physics_L1Calo" TotalNumOfEvents="36457" NumOfSelectedEvents="12152"/>
+         <Stream Name="physics_L1MinBias" TotalNumOfEvents="430282" NumOfSelectedEvents="38690"/>
+         <Stream Name="physics_L1Muon" TotalNumOfEvents="5773" NumOfSelectedEvents="1723"/>
+         <Stream Name="physics_MinBias" TotalNumOfEvents="11154754" NumOfSelectedEvents="10406393"/>
+         <Stream Name="physics_Muons" TotalNumOfEvents="56299897" NumOfSelectedEvents="56299897"/>
+         <Stream Name="physics_ZeroBias" TotalNumOfEvents="327588" NumOfSelectedEvents="327588"/>
+      </Metadata>
+      <LumiBlockCollection>
+         <Run>161948</Run>
+         <LBRange Start="345" End="707"/>
+      </LumiBlockCollection>
+      <LumiBlockCollection>
+         <Run>161562</Run>
+         <LBRange Start="37" End="349"/>
+      </LumiBlockCollection>
+      <LumiBlockCollection>
+         <Run>161520</Run>
+         <LBRange Start="130" End="502"/>
+      </LumiBlockCollection>
+      <LumiBlockCollection>
+         <Run>161407</Run>
+         <LBRange Start="70" End="178"/>
+      </LumiBlockCollection>
+      <LumiBlockCollection>
+         <Run>161379</Run>
+         <LBRange Start="112" End="505"/>
+      </LumiBlockCollection>
+      <LumiBlockCollection>
+         <Run>161118</Run>
+         <LBRange Start="1" End="104"/>
+      </LumiBlockCollection>
+      <LumiBlockCollection>
+         <Run>160980</Run>
+         <LBRange Start="1" End="39"/>
+      </LumiBlockCollection>
+      <LumiBlockCollection>
+         <Run>160975</Run>
+         <LBRange Start="72" End="99"/>
+      </LumiBlockCollection>
+      <LumiBlockCollection>
+         <Run>160963</Run>
+         <LBRange Start="1" End="19"/>
+      </LumiBlockCollection>
+      <LumiBlockCollection>
+         <Run>160958</Run>
+         <LBRange Start="1" End="226"/>
+      </LumiBlockCollection>
+      <LumiBlockCollection>
+         <Run>160954</Run>
+         <LBRange Start="107" End="273"/>
+      </LumiBlockCollection>
+      <LumiBlockCollection>
+         <Run>160953</Run>
+         <LBRange Start="198" End="261"/>
+      </LumiBlockCollection>
+      <LumiBlockCollection>
+         <Run>160899</Run>
+         <LBRange Start="109" End="129"/>
+      </LumiBlockCollection>
+      <LumiBlockCollection>
+         <Run>160879</Run>
+         <LBRange Start="107" End="568"/>
+      </LumiBlockCollection>
+      <LumiBlockCollection>
+         <Run>160801</Run>
+         <LBRange Start="1" End="430"/>
+      </LumiBlockCollection>
+      <LumiBlockCollection>
+         <Run>160800</Run>
+         <LBRange Start="1" End="87"/>
+      </LumiBlockCollection>
+      <LumiBlockCollection>
+         <Run>160736</Run>
+         <LBRange Start="197" End="266"/>
+      </LumiBlockCollection>
+      <LumiBlockCollection>
+         <Run>160613</Run>
+         <LBRange Start="103" End="324"/>
+      </LumiBlockCollection>
+      <LumiBlockCollection>
+         <Run>160530</Run>
+         <LBRange Start="184" End="628"/>
+      </LumiBlockCollection>
+      <LumiBlockCollection>
+         <Run>160479</Run>
+         <LBRange Start="287" End="320"/>
+      </LumiBlockCollection>
+      <LumiBlockCollection>
+         <Run>160472</Run>
+         <LBRange Start="135" End="532"/>
+      </LumiBlockCollection>
+      <LumiBlockCollection>
+         <Run>160387</Run>
+         <LBRange Start="149" End="397"/>
+      </LumiBlockCollection>
+   </NamedLumiRange>
+</LumiRangeCollection>

@@ -1,0 +1,3 @@
+g++ -g -fpic -c isolv.cxx -I $ROOTSYS/include
+g77 -g -fpic -c solvtl.f solvtlimg.f solv3x.f solv4x.f calcv.f ttlh3c.f
+g++ -Wl,-soname,libsolvtl.sl -shared -o libsolvtl.sl isolv.o solvtl.o solvtlimg.o solv3x.o solv4x.o calcv.o ttlh3c.o -lg2c /cern/pro/lib/libmathlib.a /cern/pro/lib/libpacklib.a

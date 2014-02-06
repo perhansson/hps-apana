@@ -1,0 +1,1 @@
+g77 -C -g -o solv dosolv.f solvtl.f solv4x.f solv3x.f mcutil.f pyr.f /cern/pro/lib/libmathlib.a /cern/pro/lib/libpacklib.a -L/usr/local/lib -lnsl -lcrypt -ldl
